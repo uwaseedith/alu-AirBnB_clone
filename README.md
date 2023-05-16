@@ -45,7 +45,7 @@ EOF  help  quit
 ```
 
 
-# AUTHORS :man:
+# AUTHORS :woman:
 * Edith Uwase
    * [UWASE](https://github.com/Uwaseedith)
 * Brian
